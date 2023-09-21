@@ -1,3 +1,3 @@
-pandoc -s cv_en_john_doe.md -o cv_en_john_doe.docx
-python3 md_to_tex.py cv_en_john_doe.md english
-pdflatex cv_en_john_doe.tex
+pandoc -s cv_mj_en.md -o cv_mj_en.docx
+python3 md_to_tex.py cv_mj_en.md english
+pdflatex cv_mj_en.tex
