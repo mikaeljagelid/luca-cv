@@ -1,5 +1,10 @@
 # Luca-CV
 
+Blog-post: https://lucaf.eu/2022/08/18/cv-markdown-pandoc-python-latex.html
+
+Using https://www.ctan.org/tex-archive/macros/latex/contrib/moderncv
+
+
 Use
 - Replace `photo.jpg` with your photo.
 - Update `cv_en_john_doe.md`.
