@@ -95,16 +95,8 @@ class CurriculumVitae():
                 self.email = personal_info_from_md_line(line)
                 i += 1
                 continue
-            if line.startswith("`homepage`"):
-                self.homepage = personal_info_from_md_line(line)
-                i += 1
-                continue
             if line.startswith("`linkedin`"):
                 self.linkedin = personal_info_from_md_line(line)
-                i += 1
-                continue
-            if line.startswith("`github`"):
-                self.github = personal_info_from_md_line(line)
                 i += 1
                 continue
             
@@ -144,12 +136,8 @@ class CurriculumVitae():
             tex_out.append("\\photo[80pt][0pt]{{{}}}".format(self.photo))
         if self.email is not None:
              tex_out.append("\\email{{{}}}".format(self.email))
-        if self.homepage is not None:
-             tex_out.append("\\homepage{{{}}}".format(self.homepage))
         if self.linkedin is not None:
              tex_out.append("\\social[linkedin]{{{}}}".format(self.linkedin))
-        if self.github is not None:
-             tex_out.append("\\social[github]{{{}}}".format(self.github))
         if self.phone is not None:
              tex_out.append("\\phone{{{}}}".format(self.phone))
         
