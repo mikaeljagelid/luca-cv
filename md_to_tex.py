@@ -108,6 +108,13 @@ class CurriculumVitae():
                 i += 1
                 continue
             
+            if line.startswith("`phone`"):
+                self.phone = personal_info_from_md_line(line)
+                
+                i += 1
+                continue
+            
+
             if line.startswith("## "):
                 self.content.append(CvSection(line.removeprefix("## ")))
                 i += 1
@@ -143,6 +150,8 @@ class CurriculumVitae():
              tex_out.append("\\social[linkedin]{{{}}}".format(self.linkedin))
         if self.github is not None:
              tex_out.append("\\social[github]{{{}}}".format(self.github))
+        if self.phone is not None:
+             tex_out.append("\\phone{{{}}}".format(self.phone))
         
         tex_out = "\n".join(tex_out)
         return tex_out
