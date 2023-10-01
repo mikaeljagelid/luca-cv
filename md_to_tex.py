@@ -55,8 +55,11 @@ class CvItem():
 
     def to_tex(self):
         title = self.title
+        if title.startswith("---"):
+            return "\\newpage"
         if title.startswith("-"):
             title = "\\( \\circ \\)" + title[1:]
+        
         return "\\cvitem{{{}}}{{{}}}".format(self.side_txt, title)
 
 class CurriculumVitae():
@@ -122,6 +125,12 @@ class CurriculumVitae():
             if line.strip() != "":
                 side_text, title = split_cv_line(line)
                 self.content.append(CvItem(side_text, title))
+                i += 1
+                continue
+
+            if line.startswith("---"):
+                txt = line.removeprefix("---")
+                self.content.append("\\newpage")
                 i += 1
                 continue
 
