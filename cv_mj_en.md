@@ -12,27 +12,75 @@ Mikael is a dynamic management consultant with expertise in strategy, innovation
 
 This combination has solidified Mikael as a trusted authority in advising management, boards, and investors. Beyond his consulting prowess, Mikael is a captivating speaker who relishes sharing his insights on ongoing trends.
 
+## Work Experience - Summary
+
+### *Oct 2018 --* HiQ Göteborg AB
+Senior Business Development Consultant
+
+### *2018* Madrik AB
+Business Developer, acting CFO, 
+
+### *2017 -- 2018* European Commission Executive Agency for SMEs (part-time)
+Business Innovation Coach
+
+### *2015 -- 2018* Miveo Car-sharing Technologies AB
+Business Development/Chairman of the Board/Partner
+
+### *2013 --* Blasieholmen Investment Group (part time)
+IPO Process Advisor
+
+
+### *2010 -- 2019* Cleantech Inn Sweden AB
+Business Advisor and Partner
+
+### *2008-2010* Solberg AB
+Senior Communications and Investor Relations Consultant
+
+### *2001 -- 2008* Morphic Technologies AB
+Company building, Business development and investor relations
+
+### *2000-2001* Ambient Society AB
+Project Manager and Partner
+
+### *1997 - 2000* SKF Nova AB
+Technical and Business Development
+
+## Education
+
+*1991 - 1997* MSc Electronics -- Chalmers University of Technology
+Master Thesis: "Analysis, Design and Simulation of Active Magnetic Thrust Bearings"
+
+*May 2023* "Certifiering i styrelsearbete" -- Västsvenska Handelskammaren 
+---
+## Skills
+
+*IT* MS Office, Keynote, Google Apps, Slack, Miro, Hubspot, Coda, GitHub, Adobe InDesign, macOS, Visio, and more.
+
+*Languages* Swedish (native), English (fluent)
+
+
+## Honours and Awards
+*2016* Frost \& Sullivan Growth Excellence Leadership Award -- issued by Frost \& Sullivan
+*1997* SKF Innovation Award "High Speed Grinding Spindle with Oscillating Active Magnetic Thrust Bearings"-- SKF Group 
 
 ## Industry Experience
-*Manufacturing* Mikael started his career at SKF and stayed in the industry sector for his first 10 years, working with the digitalisation and connectivity of production machinery.
 
-*Finance* Mikael has been very active in the finance sector. First interacting the finance market as investor relations manager and investor relations consultant. Later, working with new business development for the car leasing industry.
+*Manufacturing* Mikael embarked on his career in the manufacturing sector abd stayed there for his first decade. During this time, he focused on digitalization and connectivity within production machinery and processes.
 
-*Energy* The renewable energy sector has been following Mikael over the years in different contexts. From condition monitoring in wind turbines to funding large wind farms.
+*Finance* Mikael has played an active role in the finance sector, initially as an investor relations manager and investor relations consultant. Later, he extended his expertise to support startups and scaleups in funding and IPO processes. Additionally, he contributed to new business development within the car leasing industry.
 
-*Cleantech* As a pioneer in the fuel cell industry Mikael gained an interest in cleantech and sustainability and later got the opportunity to seek out, asses and support promising cleantech startups.
+*Energy* The renewable energy sector has been a consistent part of Mikael's journey, taking on various roles. These ranged from condition monitoring in wind turbines to funding large wind farms and driving innovation within wave power, solar energy, and biogas. More recently, he has been involved in energy service development processes for utilities.
 
-*Commerce*
+*Cleantech* Pioneering in the fuel cell industry ignited Mikael's interest in cleantech and sustainability. He later had the opportunity to seek, assess, and support promising cleantech startups.
 
-*Automotive*
+*Mobility* Mikael has experience in developing, launching, and operating car-sharing services. Concurrently, he explored and tested combinations of mobility services for car manufacturers and leasing companies.
 
-*Mobility*
+*Automotive* He has been involved in strategies related to the ongoing transformations characterizing the automotive industry today, including electrification, sharing, connectivity, and autonomous driving solutions.
 
+*Commerce* Mikael has been actively engaged in transformation projects within the retail industry, with a specific focus on identifying and mapping value creation processes.
 
-
-
-## Work Experience
-
+---
+## Appendix - Detailed Work Experience 
 ### *Since Oct 2018* HiQ Göteborg AB -- Senior Business Development Consultant
 Currently holding a combined position as strategy and business development consultant, interim key account manager for Volvo Group and business developer for the HiQ Göteborg organisation.
 
@@ -42,7 +90,7 @@ With a company in transformation since a PE buyout three years ago, Mikael has a
 
 Mikael has also been given a role to drive the thought leadership of the organisation, providing trend insights, running think tanks and giving inspirational talks. 
 
-In his assignments, Mikael has joined multifunctional teams where he has been responsible everything relating to the customers business, like  exploring or developing business models, market research and compliance with long term goals and strategies. Working closely with service designers, Mikael has seamlessly integrated service design principles into business and strategy challenges, offering clients holistic strategies that enhance both growth and the customer experience.
+In his assignments, Mikael has joined multifunctional teams where he has been responsible for everything relating to the customers business, like  exploring or developing business models, market research and compliance with long term goals and strategies. Working closely with service designers, Mikael has seamlessly integrated service design principles into business and strategy challenges, offering clients holistic strategies that enhance both growth and the customer experience.
 
 
 ### Selected examples of assignments
@@ -58,13 +106,13 @@ Bubbleroom: "as-is" and "to-be" scenarios for replacing ERP and e-commerce platf
 
 Other clients include Göteborg Energi, Bokusgruppen, Volvo Construction Equipment, Batteryloop, Yamaha Motors, LEGO, SKF, Västtrafik among others.
 
-### *May 2018 -- Oct 2018* Madrik AB -- Business Developer, acting CFO, 
+### *May -- Oct 2018* Madrik AB -- Business Developer, acting CFO, 
 Mikael was hired by the holding company Madrik AB to develop a growth-oriented business case for the Madrik portfolio company GreenStar Marine AB, offering electric propulsion for the recreational boating industry.
 
 
 ### *2017 -- 2018 (part-time)* European Commission Executive Agency for SMEs -- Business Innovation Coach
 Contracted as coach in the Horizon 2020 program for SME’s in the areas of electric vehicle components, charging solutions for electric vehicles, and solar energy (Spain). As an integral part of the Horizon 2020 program, European SMEs benefiting from certain grant funding where offered business coaching to help their business scale up and grow. The selected coaches supported the SME's in developing strategy and organisation, identifying market segments and improving the ability to attract further funding.
-
+---
 ### *July 2015 -- May 2018* Miveo Car-sharing Technologies AB -- Business Development/Chairman of the Board/Partner
 Mikael became partner through a combined management buy-in/buy-out of the car sharing division in telematics pioneer Pilotfish AB in 2015. Mikael supported clients like car manufacturers, global leasing companies and car sharing operators to design, launch and grow mobility service operations in Europe and North America. The results from his team was recognized with the Frost \& Sullivan Growth Excellence Award in 2016.
 Working in a small management team in business development, sales, marketing and strategies for emerging business models related to mobility in urban environments. Mikael was also responsible for communications and investor relations, representing and presenting the company at conferences and for investors.
@@ -90,7 +138,7 @@ Mikael was selected by Zennström Philanthropies to advise in designing the scre
 He was also selected one of ten Coaches in the ALMI Born Global program 2013, bringing ten Swedish startups to Silicon Valley.
 
 In 2016 Mikael stepped down from the daily operations but remained active as one of four owners and in selected projects. Together with the three other owners, he performed the divestment of the entire operation and brand to RISE (Research Institutes of Sweden) in 2019.
-
+---
 ### *2008-2010* Solberg AB -- Senior Communications and Investor Relations Consultant
 Solberg is one of Swedens largest and internationally acclaimed communication consultancy firms, specialised in financial communication for large, mainly stock listed enterprises.
 
@@ -116,24 +164,6 @@ SKF Nova was an independent entity within the SKF Group responsible for developi
 Mikael joined SKF as a Master student in 1996 and was hired to industrialize the active magnetic thrust bearing system for the machine tools and printing industries developed in his master thesis. The magnetic thrust bearing received the SKF Innovation Award 1997.
 He then led the technical development and business development for remote vibration analysis of rotating machinery over the internet. As part of the development he tested business models for remote analysis services and predictive maintenance strategies based on analysis of data gathered from a large volume of installed machinery. At that time this was considered “future technology” and pioneering the introduction of Internet-of-Things, machine learning and software-as-a-service in heavy industries.
 
-## Education
 
-*1991 - 1997* MSc Electronics -- Chalmers University of Technology
-Master Thesis: "Analysis, Design and Simulation oc Active Magnetic Thrust Bearings"
-
-## Skills
-
-*IT* PowerPoint, Excel, VisiCalc, Lotus 1-2-3
-
-*Languages* English (native), German (fluent), French (fluent)
-
-
-## Certificationsasdsad
-
-*May 2023* "Certifiering i styrelsearbete" -- Västsvenska Handelskammaren 
-
-## Honours and Awards
-*2016* Frost \& Sullivan Growth Excellence Leadership Award -- issued by Frost \& Sullivan
-*1997* SKF Innovation Award "High Speed Grinding Spindle with Oscillating Active Magnetic Thrust Bearings"-- SKF Group 
 
 
