@@ -65,13 +65,13 @@ Master Thesis: "Analysis, Design and Simulation of Active Magnetic Thrust Bearin
 
 ## Industry Experience
 
-*Manufacturing* Mikael embarked on his career in the manufacturing sector abd stayed there for his first decade. During this time, he focused on digitalization and connectivity within production machinery and processes.
+*Manufacturing* Mikael embarked on his career in the manufacturing sector and stayed there for his first decade. During this time, he focused on digitalization and connectivity within production machinery and processes.
 
 *Finance* Mikael has played an active role in the finance sector, initially as an investor relations manager and investor relations consultant. Later, he extended his expertise to support startups and scaleups in funding and IPO processes. Additionally, he contributed to new business development within the car leasing industry.
 
 *Energy* The renewable energy sector has been a consistent part of Mikael's journey, taking on various roles. These ranged from condition monitoring in wind turbines to funding large wind farms and driving innovation within wave power, solar energy, and biogas. More recently, he has been involved in energy service development processes for utilities.
 
-*Cleantech* Pioneering in the fuel cell industry ignited Mikael's interest in cleantech and sustainability. He later had the opportunity to seek, assess, and support promising cleantech startups.
+*Sustainability* Pioneering in the fuel cell industry ignited Mikael's interest in cleantech and sustainability. He later had the opportunity to work with sustainablity reporting and communication, and then to identify, assess, and support promising cleantech startups.
 
 *Mobility* Mikael has experience in developing, launching, and operating car-sharing services. Concurrently, he explored and tested combinations of mobility services for car manufacturers and leasing companies.
 
